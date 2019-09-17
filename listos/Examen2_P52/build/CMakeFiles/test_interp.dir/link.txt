@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_interp.dir/home/jose/Documents/Compiladores1_2019/Examen2_P52/spl_ast.cpp.o CMakeFiles/test_interp.dir/test_interp.cpp.o  -o test_interp 

@@ -1,0 +1,4 @@
+/home/jose/Documents/Compiladores1_2019/Examen2_P52/build/CMakeFiles/rebuild_cache.dir
+/home/jose/Documents/Compiladores1_2019/Examen2_P52/build/CMakeFiles/edit_cache.dir
+/home/jose/Documents/Compiladores1_2019/Examen2_P52/build/CMakeFiles/test_interp.dir
+/home/jose/Documents/Compiladores1_2019/Examen2_P52/build/CMakeFiles/test.dir
